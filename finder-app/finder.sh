@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#author Shaswat Saraswat
 # Check if both arguments are provided
 if [ "$#" -ne 2 ]; then
     echo "Error: Two arguments required."
